@@ -1,0 +1,36 @@
+Rakaman ElevenLabs Bahasa Melayu Malaysia. Simpan fail MP3 menggunakan nama berikut:
+
+al-quran.mp3  =  Al-Quran
+alhamdulillah.mp3  =  Alhamdulillah
+alif.mp3  =  Alif
+anak-ayam.mp3  =  Anak Ayam
+anak-bulan.mp3  =  Anak bulan
+arnab.mp3  =  Arnab
+assalamualaikum.mp3  =  Assalamualaikum
+awan.mp3  =  Awan
+ba.mp3  =  Ba
+bintang.mp3  =  Bintang
+biru.mp3  =  Biru
+bismillah.mp3  =  Bismillah
+bulan.mp3  =  Bulan
+bunga.mp3  =  Bunga
+doa.mp3  =  Doa
+gajah.mp3  =  Gajah
+ha.mp3  =  Ha
+hijau.mp3  =  Hijau
+ikan.mp3  =  Ikan
+jim.mp3  =  Jim
+kucing.mp3  =  Kucing
+kuning.mp3  =  Kuning
+lembu.mp3  =  Lembu
+masjid.mp3  =  Masjid
+masya-allah.mp3  =  Masya-Allah
+matahari.mp3  =  Matahari
+merah.mp3  =  Merah
+oren.mp3  =  Oren
+pokok.mp3  =  Pokok
+sejadah.mp3  =  Sejadah
+ta.mp3  =  Ta
+tasbih.mp3  =  Tasbih
+tha.mp3  =  Tha
+ungu.mp3  =  Ungu

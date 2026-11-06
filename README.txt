@@ -1,5 +1,9 @@
-Si Cilik Muslim V4 - Tablet Fit Screen
+SI CILIK MUSLIM V4 - AUDIO AKTIVITI
 
-Buka index.html pada Chrome tablet. Paparan disusun agar tiada skrol menegak atau mendatar. Gunakan mod skrin penuh atau Add to Home Screen untuk ruang maksimum.
+Rakaman Adam dan Aisyah dikekalkan. Untuk membunyikan gambar, jana MP3 ElevenLabs mengikut SENARAI_AUDIO.txt dalam audio/objek/ms/.
 
-Kekalkan folder audio bersama index.html.
+Contoh: kucing.mp3 perlu mengandungi suara "Ini kucing! Meow, meow!". Letak dalam audio/objek/ms/kucing.mp3.
+
+Tanpa fail MP3, permainan masih boleh disentuh tetapi akan memaparkan makluman audio belum dimasukkan. Ini mengelakkan pelat suara telefon yang tidak sesuai.
+
+Upload semua fail/folder ke root GitHub Pages.
